@@ -1,13 +1,13 @@
 #project
-a="hello"
-b=25
+a = "hello"
+b = 25
 print (a)
 print (b)
-f_name="Omega"
-l_name="X"
+f_name = "Omega"
+l_name = "X"
 age = 25
-full_name=(f_name + " " + l_name )
-print(full_name + " " + str (age))
+full_name = (f_name + " " + l_name )
+print (full_name + " " + str (age))
 
 f_name = "omega"
 F_NAME = "OMEGA"
@@ -16,4 +16,5 @@ print (f_name+" " + F_NAME)
 num1 = 1
 num2 = 2
 num3 = num1+num2
+#print (num1+num2)
 print (num3)
